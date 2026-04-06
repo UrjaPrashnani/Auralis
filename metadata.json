@@ -1,0 +1,5 @@
+{
+  "name": "Auralis",
+  "description": "An AI-powered multi-utility platform for conversation, dictionary lookups, and real-time news.",
+  "requestFramePermissions": ["microphone"]
+}
